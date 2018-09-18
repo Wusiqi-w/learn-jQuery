@@ -1,0 +1,25 @@
+
+
+/* 停止滑动 */
+
+/* #panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: pink;
+    border: 1px solid yellow;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+} */
+
+
+/* 停止动画 */
+
+div {
+    background: pink;
+    height: 100px;
+    width: 200px;
+    position: absolute;
+}
